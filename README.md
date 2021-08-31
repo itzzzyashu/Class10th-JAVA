@@ -1,2 +1,2 @@
-# Class10thComputerProject
-My Personal Computer Project
+# Class-10th Computer-Java-Project
+My Personal Computer-Java-Project
