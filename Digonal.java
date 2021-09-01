@@ -7,7 +7,7 @@ public class Diagnol
         Scanner in = new Scanner(System.in);
         int l,b,h;
         double d ;
-        System.out.println("Enter the Length, breadth & hieght of the cuboid Respectively : ");
+        System.out.println("Enter the Length, Breadth & Hieght of the Cuboid Respectively : ");
         l=in.nextInt();
         b=in.nextInt();
         h=in.nextInt();
