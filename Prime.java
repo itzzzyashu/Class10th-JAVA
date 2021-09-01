@@ -4,7 +4,7 @@ public class Prime
     public static void main(String args[])
     {
         int a,b;
-        System.out.println("The prime numbers between 1 and 100 are :");
+        System.out.println("The Prime numbers between 1 and 100 are :");
         for(a=1;a<=100;a++)
         {
             int c=0;
