@@ -11,7 +11,7 @@ public class Armstrong
             s=s+a*a*a;
             n=n/10;
         }
-        if(num==s) System.out.println("The number "+num +" is an Armstrong Number.");
+        if(num==s) System.out.println("The number "+num +" is An Armstrong Number.");
         else
         System.out.println("The number "+num +" is not an Armstrong Number.");
     }
