@@ -6,7 +6,7 @@ public class Greatest
     {
         Scanner in = new Scanner(System.in);
         int a,b,c,d,p;
-        System.out.println("Enter three numbers");
+        System.out.println("Enter three Numbers");
         a=in.nextInt();
         b=in.nextInt();
         c=in.nextInt();
