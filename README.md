@@ -5,8 +5,8 @@
 ## ICSE CLASS 10th COMPUTER PROJECT
 <summary>Developers</summary>
 <details>
-  - Vijay Kumar Panday
-  - Dilip Kumar Dey
+  * Vijay Kumar Panday
+  * Dilip Kumar Dey
 </details>
   
   
