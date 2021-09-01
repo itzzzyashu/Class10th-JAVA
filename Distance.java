@@ -13,6 +13,6 @@ public class Distance
         y2=in.nextInt();
         p=Math.pow((y2-y1),2)+Math.pow((x2-x1),2);
         d=Math.sqrt(p);
-        System.out.println("The distance between two points="+d);
+        System.out.println("The Distance between two points="+d);
     }
 }
