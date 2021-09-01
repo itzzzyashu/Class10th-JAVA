@@ -12,7 +12,7 @@ public class Results
         System.out.println("Natural log of "+a+" = "+Math.log(a));
         System.out.println("Absolute value of "+ a +" = " +Math.abs(a));
         System.out.println("Square root of " +a+" = "+Math.sqrt(a));
-        System.out. println("Cube of "+a+" = " +(a*a*a));
+        System.out.println("Cube of "+a+" = " +(a*a*a));
         System.out.println("Random Numbers between 0 and 1 are:");
         System.out.println(Math.random());
     }
