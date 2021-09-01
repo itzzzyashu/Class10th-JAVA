@@ -14,8 +14,8 @@ public class Perfact
         s=s+a;
     }
     if(s==n)
-      System.out.println(a+ " is a perfact number.");
+      System.out.println(a+ " is a perfact Number.");
     else
-      System.out.println(a+ " is not a perfact number");
+      System.out.println(a+ " is not a perfact Number");
   }
 }
