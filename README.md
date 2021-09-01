@@ -6,6 +6,7 @@
 <summary>Developers</summary>
 <details>
   - Vijay Kumar Panday
+  - Dilip Kumar Dey
 </details>
   
   
