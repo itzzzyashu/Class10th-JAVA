@@ -26,7 +26,7 @@ public class Ticket
         if(p>70000)
           d=p*18.0/100.0;
         amt=(p-d);
-        System.out.println("SI.No. |   Name | Ticket Charge | Discount | Net Amount");
+        System.out.println("SI.No. | Name | Ticket Charge | Discount | Net Amount");
         System.out.println(i+" | "+name+" | "+p+" | "+d+" | "+amt);
       }
     }
