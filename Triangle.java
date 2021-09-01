@@ -37,7 +37,7 @@ public class Menu
         System.out.println("Area = "+area);
         break;
       default:
-        System.out.println("Wrong Choice!");
+        System.out.println("Wrong Choice!!");
     }
   }
 }
