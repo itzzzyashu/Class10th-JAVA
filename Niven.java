@@ -18,6 +18,6 @@ class Niven
         while(num!=0);
         if(p%sum==0) System.out.println("Niven Number");
         else
-        System.out.println("Not a Niven Number");
+        System.out.println("Not a niven number");
     }
 }
