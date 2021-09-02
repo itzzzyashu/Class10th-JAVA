@@ -8,7 +8,7 @@
   <code>Vijay Kumar Panday</code> & <code>Dilip Kumar Dey</code>
 </details>
 
-[![GITHUB](https://pngimg.com/uploads/github/github_PNG40.png)](https://www.github.com)
+[![GITHUB](https://cdn.icon-icons.com/icons2/2368/PNG/512/github_logo_icon_143772.png)](https://www.github.com)
 
 [![BLUEJ](https://blueroom.bluej.org/system/pictures/25/normal/BJ401.png)](https://www.bluej.org)
 
