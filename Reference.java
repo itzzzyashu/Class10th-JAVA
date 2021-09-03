@@ -1,3 +1,7 @@
+/**Pass by reference means that the arguments
+of the function are a reference to the original objects and not a copy.
+So any changes that the called function makes to the objects
+are visible to the calling function. Consider the below example:*/
 class Reference
 {
   public void demoRef(int a[])
