@@ -4,7 +4,7 @@ public class numpattern
   public static void main(String args[])
   {
     int i,j,k,p=0;
-    System.out.println("The Pattern : ");
+    System.out.println("The Pattern :");
     for(i=5;i>=1;i--)
     {
     for(k=1;k<=p;k++)
